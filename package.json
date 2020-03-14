@@ -1,0 +1,23 @@
+{
+  "name": "koa-movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start":"node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuboringbook/koa-movie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuboringbook/koa-movie/issues"
+  },
+  "homepage": "https://github.com/liuboringbook/koa-movie#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
